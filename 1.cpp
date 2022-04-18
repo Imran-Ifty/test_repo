@@ -14,7 +14,7 @@
   int n , item;
   cout<<" Enter the number of node : ";
   cin>>n;
-  cout<<" Enter the node values : ";
+  cout<<" Enter the node values of : ";
   for(int i = 0 ; i < n ; i++){
      cin>>item;
      tptr = new node;
